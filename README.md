@@ -1,16 +1,16 @@
 ### Hi, I'm Tejas 👋
 
-AI / backend engineer. I mostly work on the unglamorous parts of AI systems: the pipelines that turn messy, real-world data into something a model (or a person) can actually use.
+AI / backend engineer. I build the systems that sit behind AI features: data pipelines, APIs and the infrastructure that keeps them running.
 
-**Lately I've been working on**
+**What I work on**
 
-- Document ingestion pipelines that handle PDFs, scans, spreadsheets, emails, images, audio and video, from extraction through chunking, embedding and indexing
-- Retrieval: hybrid dense + sparse search over vector stores, and the plumbing that keeps it fresh
-- LLM-driven extraction and classification, including the review loops for when the model isn't sure
-- Distributed workers that run steadily under load: queues, retries, backpressure and a lot of memory profiling
+- Data processing and ingestion pipelines
+- Search and retrieval for LLM applications
+- Applying LLMs to real-world, messy data
+- Distributed backend services that are reliable under load
 
-**Tools I reach for**
+**Tools I usually reach for**
 
-Python · FastAPI · Celery · RabbitMQ · PostgreSQL · ClickHouse · Redis · Qdrant · MinIO/S3 · Docker
+Python · FastAPI · SQL · message queues · vector databases · Docker
 
-I'm still learning, and I like simple systems that are easy to debug when they break.
+I'm always learning, and I like simple systems that are easy to reason about.
