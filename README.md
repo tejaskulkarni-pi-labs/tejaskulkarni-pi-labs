@@ -1,18 +1,30 @@
 ### Hi, I'm Tejas 👋
 
-AI / backend engineer. I build the systems that sit behind AI features: data pipelines, APIs and the infrastructure that keeps them running.
+AI / backend engineer. I build the unglamorous parts of AI systems: the pipelines, queues and services that quietly do the work so the demo looks magical. ✨
 
-**What I work on**
+```python
+class Tejas:
+    role = "AI / Backend Engineer"
+    builds = ["data pipelines", "LLM-powered services", "search & retrieval", "APIs"]
+    stack = ["Python", "FastAPI", "SQL", "message queues", "vector DBs", "Docker"]
+    believes_in = "boring code that works at 3am"
+    current_status = "reading logs to find out why the retry also needed a retry"
 
-- Data processing and ingestion pipelines
-- Search and retrieval for LLM applications
-- Applying LLMs to real-world, messy data
-- Distributed backend services that are reliable under load
+    def fix_bug(self) -> str:
+        return "it was a race condition. it's always a race condition."
+```
 
-**Tools I usually reach for**
+**Things I enjoy**
 
-Python · FastAPI · SQL · message queues · vector databases · Docker
+- 🛠️ Turning messy, real-world data into something a model can actually use
+- 🔍 Making search return the thing you meant, not just the thing you typed
+- 🧵 Distributed systems, the good parts *and* the "why is this message here twice" parts
+- ✂️ Deleting code. The best pull request is a negative diff.
 
-I'm always learning, and I like simple systems that are easy to reason about.
+**Things I've learned the hard way**
 
-[LinkedIn](https://www.linkedin.com/in/tejas-kulkarni52/)
+- "It works on my machine" is a statement about my machine
+- Every queue is eventually a backlog
+- LLMs are confident. That's not the same as correct.
+
+📫 Find me on [LinkedIn](https://www.linkedin.com/in/tejas-kulkarni52/), or let's talk pipelines, LLMs, or why `retry=3` is never enough.
