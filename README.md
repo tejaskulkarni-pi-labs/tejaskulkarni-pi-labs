@@ -14,3 +14,5 @@ AI / backend engineer. I build the systems that sit behind AI features: data pip
 Python · FastAPI · SQL · message queues · vector databases · Docker
 
 I'm always learning, and I like simple systems that are easy to reason about.
+
+[LinkedIn](https://www.linkedin.com/in/tejas-kulkarni52/)
