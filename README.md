@@ -27,4 +27,9 @@ class Tejas:
 - Every queue is eventually a backlog
 - LLMs are confident. That's not the same as correct.
 
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tejaskulkarni-pi-labs&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=tejaskulkarni-pi-labs&theme=transparent&hide_border=true" alt="GitHub streak" />
+</p>
+
 📫 Find me on [LinkedIn](https://www.linkedin.com/in/tejas-kulkarni52/), or let's talk pipelines, LLMs, or why `retry=3` is never enough.
